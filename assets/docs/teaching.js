@@ -1,6 +1,6 @@
 var courses = `
   <div class="sectionHead">
-      <h1>JOOOOOOHHHHNN Courses</h1>
+      <h1>JOHN Courses</h1>
   </div>               
   <p>          
 `;
